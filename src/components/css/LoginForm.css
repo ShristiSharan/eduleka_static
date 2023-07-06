@@ -1,0 +1,67 @@
+.LoginForm {
+    margin:50px;
+    box-sizing:border-box;
+    width: 5%;
+    height:20%;
+    margin-top: 60%;
+    text-align: center;
+    
+}
+
+
+.cover {
+    background-color:white;
+    font-family: Poppins;
+    width: 30em;
+    height:30em;
+    margin-left: 80px;
+    position:relative;
+    border-radius:1em;
+    box-shadow: 0 0.188em 1.550em rgb(200, 197, 214) ;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+}
+.alt-login div{
+    width:45%;
+    height:50%;
+    border-radius:1em;
+    background-position:center;
+    background-size:contain;
+    background-repeat:no-repeat;
+    cursor:pointer;
+}
+input{
+    border:none;
+    background:whitesmoke;
+    height:0em;
+    width:70%;
+    border-radius:0.25em;
+    text-align:center;
+    padding:2em;
+}
+
+input{
+    outline-color: rgb(76, 106, 155);
+}
+
+.login-btn{
+    width:40%;
+    height:3em;
+    background-color:rgb(60, 98, 155);
+    display:flex;
+    font-weight: 700;
+    justify-content:center;
+    align-items: center;
+    transition:0.5s;
+    border-radius:0.25em;
+    cursor:pointer;
+}
+.login-btn:hover{
+    transform:scale(1.25);}
+
+.alt-login .Link{
+    margin: top -20%;;
+}
+
