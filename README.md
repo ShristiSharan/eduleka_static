@@ -1,4 +1,10 @@
+# Made a eduTech website - freelancing work!
+
+![image](https://github.com/ShristiSharan/eduleka_static/assets/95679078/c777de31-adcd-48a1-b935-6bb60f7d0d3f)
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
